@@ -5,6 +5,7 @@
 ### 1. Target Audience: 
     a. Student who major in IT
     b. People who have interest on computer monitor.
+    c. people who are 
 ### 2. Brief Introduction of Computer Monitor:
 A computer monitor is an output device that displays information in pictorial form. A monitor usually comprises the display device, circuitry, casing, and power supply. The display device in modern monitors is typically a thin film transistor liquid crystal display (TFT-LCD) with LED backlighting having replaced cold-cathode fluorescent lamp (CCFL) backlighting. Older monitors used a cathode ray tube (CRT). Monitors are connected to the computer via VGA, Digital Visual Interface (DVI), HDMI, DisplayPort, Thunderbolt, low-voltage differential signaling (LVDS) or other proprietary connectors and signals.
 
@@ -12,7 +13,6 @@ Originally, computer monitors were used for data processing while television rec
 
 Modern computer monitors are easily interchangeable with conventional television sets. However, as computer monitors do not necessarily include components such as a television tuner and speakers, it may not be possible to use a computer monitor as a television without external components.
    
-![Image of Monitor2](https://github.com/poi123456789/IT1000_FinalProject/blob/master/img/c04938915.png)
 ![Image of monitor3](https://github.com/poi123456789/IT1000_FinalProject/blob/master/img/mac.jpg)
 
 
@@ -24,14 +24,16 @@ As technology developed engineers realized that the output of a CRT display was 
 
 Computer monitors were formerly known as visual display units (VDU), but this term had mostly fallen out of use by the 1990s.
 
+![Image of monitor4](https://github.com/poi123456789/IT1000Final-Project/blob/master/img/stf%2Csmall%2C600x600.jpg)
 
 
 
-### 3. Project descripition
+
+### 4. Project descripition
 
 **Title** | **Sub1** | **Sub2** | **Sub3**
 --- | --- | --- | --- 
-*History* | **[Introduction](https://github.com/poi123456789/IT1000_FinalProject/blob/master/src/history/README.md)**|  |  
-*Technology* | **[Cathode ray tube](https://github.com/poi123456789/IT1000_FinalProject/blob/master/src/technology/READEME2.md)** | **[Liquid crystal display](https://github.com/poi123456789/IT1000_FinalProject/blob/master/src/technology/README3.md)** | **[Organic light-emitting diode](https://github.com/poi123456789/IT1000_FinalProject/blob/master/src/technology/README4.md)**
-*Measurements of performence* |**[Size](https://github.com/poi123456789/IT1000_FinalProject/blob/master/src/measure/README1.md)**| **[Aspect ratio](https://github.com/poi123456789/IT1000_FinalProject/blob/master/src/measure/README2.md)** | **[Resolution](https://github.com/poi123456789/IT1000_FinalProject/blob/master/src/measure/README3.md)**
+*History* | **[Introduction](https://github.com/poi123456789/IT1000Final-Project/blob/master/src/history/README.md)**|  |  
+*Technology* | **[Cathode ray tube](https://github.com/poi123456789/IT1000Final-Project/blob/master/src/technology/READEME2.md)** | **[Liquid crystal display](https://github.com/poi123456789/IT1000Final-Project/blob/master/src/technology/README3.md)** | **[Organic light-emitting diode](https://github.com/poi123456789/IT1000Final-Project/blob/master/src/technology/README4.md)**
+*Measurements of performence* |**[Size](https://github.com/poi123456789/IT1000Final-Project/blob/master/src/measure/README1.md)**| **[Aspect ratio](https://github.com/poi123456789/IT1000Final-Project/blob/master/src/measure/README2.md)** | **[Resolution](https://github.com/poi123456789/IT1000Final-Project/blob/master/src/measure/README3.md)**
 
