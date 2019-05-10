@@ -1,5 +1,5 @@
 # IT1000_FinalProject
-### Topic: INtroduction to computer monitor and computer monitor develop history
+### Topic: Introduction to computer monitor and computer monitor develop history
 ### Name : Pinwen Xu
 ### Date : 2019/5/9
 ### 1. Target Audience: 
