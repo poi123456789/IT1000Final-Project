@@ -26,7 +26,7 @@ Computer monitors were formerly known as visual display units (VDU), but this te
 
 ![Image of monitor4](https://github.com/poi123456789/IT1000Final-Project/blob/master/img/stf%2Csmall%2C600x600.jpg)
 
-### 4 THE FUTURE OF THE COMPUTER MONITOR
+### 4 The future of the computer monitor
 
 Ultrawide
 While bigger doesn’t always mean better, when it comes to the computer monitor, more screen is always a bonus. But the cost of ultrawide screens in the past has been prohibitive, so it was easier to set two screens side by side and connect them in such a way that they functioned as one. The market for ultrawide monitors has begun producing stunning contrast and resolution that would benefit any professional in the graphics heavy fields or photography, and the cost to purchase is becoming more viable for companies to consider.
