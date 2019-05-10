@@ -37,6 +37,8 @@ Curved screens first became popular in the television market, not only because t
 4K is the Future
 While televisions are becoming standard with 4K resolution, there’s been little need for them in an office setting beyond the wow factor. Unless you’re in the graphics industry, having four times the amount of pixels than a standard HD monitor hasn’t been necessary. But studies on employee well-being are showing these screens have more benefit than originally thought. The closer one sits to the screen, the higher the quality of detail. Colors are richer, blacks are deeper, and the larger amount of pixels helps reduce eye strain and fatigue. As the workplace trend toward improving employee well-being grows and the prices become more affordable, more 4K monitors will make an appearance as standard office equipment.
 
+![Image of monitor5](https://github.com/poi123456789/IT1000Final-Project/blob/master/img/glass-computer-monitor.jpg)
+
 
 
 ### 5. Project descripition
